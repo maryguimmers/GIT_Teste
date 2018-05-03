@@ -1,0 +1,24 @@
+{
+  "name": "git_teste",
+  "version": "1.0.0",
+  "description": "olar node",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maryguimmers/GIT_Teste.git"
+  },
+  "author": "Maryguimmers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maryguimmers/GIT_Teste/issues"
+  },
+  "homepage": "https://github.com/maryguimmers/GIT_Teste#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
